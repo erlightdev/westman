@@ -8,8 +8,8 @@ export function mountHeader(selector = '#header-mount') {
         <a href="/" class="text-lg font-semibold text-gray-900">Westman</a>
         <nav class="flex gap-6 text-sm text-gray-600">
           <a href="/" class="hover:text-gray-900 transition-colors">Home</a>
-          <a href="/src/pages/about/" class="hover:text-gray-900 transition-colors">About</a>
-          <a href="/src/pages/contact/" class="hover:text-gray-900 transition-colors">Contact</a>
+          <a href="/pages/about/" class="hover:text-gray-900 transition-colors">About</a>
+          <a href="/pages/contact/" class="hover:text-gray-900 transition-colors">Contact</a>
         </nav>
       </div>
     </header>
